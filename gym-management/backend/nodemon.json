@@ -1,0 +1,5 @@
+{
+  "watch": false,
+  "ignore": ["*"],
+  "delay": "1000"
+}
